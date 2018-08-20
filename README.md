@@ -2,7 +2,7 @@
 
 ## You will need:  
   
-A Rapsberry Pi  
+A Raspberry Pi  
 An IR LED  
 A Rock Candy Controller  
 
