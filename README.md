@@ -29,7 +29,7 @@ Update ```/etc/rc.local``` with the following three lines before ```exit 0```
 ```
 ln -s /dev/lirc0 /dev/lirc # this is the hack that fixes the "hardware does not support sending" error
 lircd &
-python /home/pi/RobosapienV2/RSV2.py &
+python3 /home/pi/RobosapienV2/RSV2.py &
 ```
 
 Ensure ```/boot/config.txt``` has the following line in it
