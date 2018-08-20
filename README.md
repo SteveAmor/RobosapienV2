@@ -8,6 +8,8 @@ A Rock Candy Controller
 
 ![RPi](images/kit.jpg)
 
+![Controller](images/buttons.jpg)
+
 ## Install instructions
   
 Using Raspian Stretch Lite (26/6/18)
